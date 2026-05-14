@@ -1,4 +1,4 @@
-# GEE-Carbon-Analysis
+# GEE NPP Trend Analysis
 /***************************************************************
  * NPP Trend and Stability Analysis Based on MODIS MOD17A2HGF
  *
